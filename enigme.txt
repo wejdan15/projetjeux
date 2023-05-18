@@ -1,0 +1,4 @@
+qui_est_le_fondateur_d'esprit? ,Taher_Lakhdher , Kais_Said , K2Rym 1
+combien_de_bloc_existe_dans_l'esprit? , 9 , 10 , 11 3
+Quand_a-t-il_etabli_esprit? ,2022 , 2002 , 2003 3
+
